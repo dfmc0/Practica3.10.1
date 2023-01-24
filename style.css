@@ -1,0 +1,9 @@
+h1.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul.1Principal{
+    list-style:circle;
+}
+ol.1sub{
+    list-style-type: upper-roman;
+}
