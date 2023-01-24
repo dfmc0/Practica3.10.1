@@ -1,9 +1,18 @@
-h1.titulo{
+h1.titulo {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-ul.1Principal{
+ul.Principal {
     list-style:circle;
 }
-ol.1sub{
+ol.sub1{
     list-style-type: upper-roman;
+}
+li.Secundario {
+    list-style:circle;
+}
+ol.sub2{
+    list-style-type: lower-alpha;
+}
+li.Tercero{
+    list-style:circle;
 }
